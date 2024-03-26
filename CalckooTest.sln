@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalkooTest", "CalkooTest.csproj", "{B6F174D6-83CA-4639-9899-8165BCD26135}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{EF592BCE-03FA-47B4-A72D-4F1BD45AA4F4}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6F174D6-83CA-4639-9899-8165BCD26135}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6F174D6-83CA-4639-9899-8165BCD26135}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6F174D6-83CA-4639-9899-8165BCD26135}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6F174D6-83CA-4639-9899-8165BCD26135}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3EAD0010-3246-44BC-AA20-B8504EA3BCB7}
+	EndGlobalSection
+EndGlobal
